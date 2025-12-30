@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/Blade-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Blade">
     <img src="https://img.shields.io/badge/Eloquent-ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM">
 
-    A production-ready Laravel 12 authentication system using Laravel Passport for OAuth2 implementation with role-based access control, modern UI, and comprehensive API documentation.
-
 </div>
+
+A production-ready Laravel 12 authentication system using Laravel Passport for OAuth2 implementation with role-based access control, modern UI, and comprehensive API documentation.
 
 # 🎯 Overview
 
