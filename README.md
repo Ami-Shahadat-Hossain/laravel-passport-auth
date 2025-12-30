@@ -652,3 +652,20 @@ laravel-passport-auth/
 │   └── oauth-public.key
 └── .env
 ```
+
+# Built with Laravel Passport
+
+<div align="start">
+⭐ Don't forget to star this repository if you found it helpful!
+</div>
+
+## License
+
+© 2025 Mohammad Shahadat Hossain - Laravel Passport Authentication System. All rights reserved.
+
+## ✨ Authors
+
+<a href="https://github.com/Ami-Shahadat-Hossain">
+  <img src="https://avatars.githubusercontent.com/u/123652738?v=4" width="30" style="border-radius: 50%; vertical-align: middle;">
+  <span>Mohammad Shahadat Hossain</span>
+</a>
